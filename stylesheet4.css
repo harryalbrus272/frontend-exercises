@@ -1,0 +1,30 @@
+.btn-outline-white{
+  border-color: white;
+}
+.container-image{
+  background-image: url("https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg");
+  background-repeat: repeat-y;
+  background-size: contain;
+}
+.background-grey{
+  background-color: darkgrey;
+}
+#carouselExampleIndicators{
+  width:100vw;
+  padding: 0;
+  margin:0;
+}
+.main-container{
+  width:100%;
+  margin:0;
+}
+.line-height{
+  line-height: 7rem;
+}
+h1{
+  font-weight: normal;
+  font-size: 4rem;
+}
+.container{
+  margin: auto;
+}
